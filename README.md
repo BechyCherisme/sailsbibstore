@@ -1,6 +1,6 @@
 # sailsbibstore
  
-[![Build Status](https://github.com/BechyCherisme/sailsbibstore.git)](https://themes.shopify.com/themes/debut/styles/default/preview)
+[![Build Status](https://github.com/BechyCherisme/sailsbibstore.git)](https://sailsbib.com)
 
 # Starter Theme
 
