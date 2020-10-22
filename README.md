@@ -1,9 +1,8 @@
 # sailsbibstore
  
-[![Build Status](https://github.com/BechyCherisme/sailsbibstore.git)]
+### [Live Site](https://www.sailsbib.com/)
 
-(https://p16.f3.n0.cdn.getcloudapp.com/items/4guJK1Qd/Screen%20Shot%202020-10-22%20at%203.08.21%20AM.png?source=viewer&v=75163934ad1743915f0362b84fe36eb7)
-
+![Web Application](https://p16.f3.n0.cdn.getcloudapp.com/items/4guJK1Qd/Screen%20Shot%202020-10-22%20at%203.08.21%20AM.png?source=viewer&v=75163934ad1743915f0362b84fe36eb7)
 # Starter Theme
 
 > **Starter Theme and [debut](https://github.com/BechyCherisme/sailsbibstore.git) are currently in beta!** You should expect potentially breaking changes between updates and more bugs than a finalized release. Slate v1.0 has not yet been tested on Windows.
