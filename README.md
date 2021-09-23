@@ -1,6 +1,6 @@
 # sailsbibstore
  
-### [Live Site](https://www.sailsbib.com/)
+### [Live Site](https://sailsbibz.myshopify.com/)
 
 ![Web Application](https://p16.f3.n0.cdn.getcloudapp.com/items/4guJK1Qd/Screen%20Shot%202020-10-22%20at%203.08.21%20AM.png?source=viewer&v=75163934ad1743915f0362b84fe36eb7)
 # Starter Theme
